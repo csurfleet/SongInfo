@@ -1,0 +1,8 @@
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\bin\Debug\netstandard2.0\SongInfo.Api.deps.json
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\bin\Debug\netstandard2.0\SongInfo.Api.dll
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\bin\Debug\netstandard2.0\SongInfo.Api.pdb
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\obj\Debug\netstandard2.0\SongInfo.Api.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\obj\Debug\netstandard2.0\SongInfo.Api.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\obj\Debug\netstandard2.0\SongInfo.Api.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\obj\Debug\netstandard2.0\SongInfo.Api.dll
+C:\Users\chris\OneDrive\Documents\Source\SongInfo\SongInfo.Api\obj\Debug\netstandard2.0\SongInfo.Api.pdb
